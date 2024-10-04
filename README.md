@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,selenium,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,selenium,react,git,github,boostrap,vscode,sql,instagram,linkedin)](https://skillicons.dev)
 
 
 
