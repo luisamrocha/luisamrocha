@@ -1,3 +1,8 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,selenium,react)](https://skillicons.dev)
+
+
+
+
 <h2 align="center">Stats</h2>
 
 ###
